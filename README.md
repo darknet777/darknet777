@@ -2,7 +2,7 @@
 **darknet777/darknet777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Wassup! 👋
+# Wassup! 👋
 ### ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=darknet777&color=55acb7&style=for-the-badge&logo=Github)
 [![Twitter Follow](https://img.shields.io/twitter/follow/billyjeferson5?label=Follow&style=flat-square&color=4285f4&logo=Twitter)](https://twitter.com/intent/follow?screen_name=billyjeferson5)
 ![GitHub followers](https://img.shields.io/github/followers/darknet777?label=Follow&style=flat-square&color=4285f4&logo=Github)
@@ -29,8 +29,8 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/darknet777">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darknet777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darknet777&layout=compact&langs_count=8&theme=algolia">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darknet777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darknet777&layout=compact&langs_count=8&theme=algolia">
 </a>
 </p>
 
