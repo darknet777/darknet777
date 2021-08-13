@@ -22,10 +22,17 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
 <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://img.icons8.com/color/144/000000/tensorflow.png"></a>
 <a href="https://numpy.org/"><img align="left" alt="Numpy" title="NumPy" width="35px" src="https://numpy.org/images/logos/numpy.svg"></a>
 <a href="https://aws.amazon.com/"><img align="left" alt="AWS" title="AWS (Amazon Web Services)" width="35px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png"></a>
-<a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg"></a>
 <br>
 <br>
   
+## Development Tools
+<a href="#"><img align="left" alt="GNU/Linux" title="GNU/Linux" width="35px" src="https://img.icons8.com/color/144/000000/linux--v1.png"></a>
+<a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" title="VSCode" width="35px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"></a>
+<a href="https://www.sublimetext.com/"><img align="left" alt="Sublime Text" title="Sublime Text" width="35px" src="https://img.icons8.com/fluency/144/000000/sublime-text.png"></a>
+<a href="#"><img align="left" alt="Shell" title="Shell" width="35px" src="https://img.icons8.com/color/144/000000/console.png"></a>
+<br>
+<br>
+
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/darknet777">
