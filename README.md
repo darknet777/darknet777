@@ -58,9 +58,6 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
 </p>
 
 ## Contact
-- [@billyjefersonofficial](https://instagram.com/billyjefersonofficial) on Instagram
-
-## Contact
 <a href="https://linkedin.com/in/billy-jeferson/">
     <img align="left" alt="LinkedIn" title="LinkedIn" width="35px" src="https://img.icons8.com/fluency/144/000000/linkedin.png">
 </a>
