@@ -18,18 +18,34 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
 - ⚡ Fun fact: Nothing
 
 ## Tech Stack
-<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="35px" src="https://img.icons8.com/color/144/000000/python--v1.png"></a>
-<a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://img.icons8.com/color/144/000000/tensorflow.png"></a>
-<a href="https://numpy.org/"><img align="left" alt="Numpy" title="NumPy" width="35px" src="https://numpy.org/images/logos/numpy.svg"></a>
-<a href="https://aws.amazon.com/"><img align="left" alt="AWS" title="AWS (Amazon Web Services)" width="35px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png"></a>
+<a href="https://www.python.org/">
+    <img align="left" alt="Python" title="Python" width="35px" src="https://img.icons8.com/color/144/000000/python--v1.png">
+</a>
+<a href="https://www.tensorflow.org/">
+    <img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://img.icons8.com/color/144/000000/tensorflow.png">
+</a>
+<a href="https://numpy.org/">
+    <img align="left" alt="Numpy" title="NumPy" width="35px" src="https://numpy.org/images/logos/numpy.svg">
+</a>
+<a href="https://aws.amazon.com/">
+    <img align="left" alt="AWS" title="AWS (Amazon Web Services)" width="35px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png">
+</a>
 <br>
 <br>
-  
+
 ## Development Tools
-<a href="#"><img align="left" alt="GNU/Linux" title="GNU/Linux" width="35px" src="https://img.icons8.com/color/144/000000/linux--v1.png"></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" title="VSCode" width="35px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"></a>
-<a href="https://www.sublimetext.com/"><img align="left" alt="Sublime Text" title="Sublime Text" width="35px" src="https://img.icons8.com/fluency/144/000000/sublime-text.png"></a>
-<a href="#"><img align="left" alt="Shell" title="Shell" width="35px" src="https://img.icons8.com/color/144/000000/console.png"></a>
+<a href="#">
+    <img align="left" alt="GNU/Linux" title="GNU/Linux" width="35px" src="https://img.icons8.com/color/144/000000/linux--v1.png">
+</a>
+<a href="https://code.visualstudio.com/">
+    <img align="left" alt="VSCode" title="VSCode" width="35px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png">
+</a>
+<a href="https://www.sublimetext.com/">
+    <img align="left" alt="Sublime Text" title="Sublime Text" width="35px" src="https://img.icons8.com/fluency/144/000000/sublime-text.png">
+</a>
+<a href="#">
+    <img align="left" alt="Shell" title="Shell" width="35px" src="https://img.icons8.com/color/144/000000/console.png">
+</a>
 <br>
 <br>
 
@@ -42,7 +58,18 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
 </p>
 
 ## Contact
-- [Billy Kwek](https://linkedin.com/in/billy-jeferson/) on LinkedIn
-- [Billy Jeferson](https://twitter.com/BillyJeferson5) on Twitter
 - [@billyjefersonofficial](https://instagram.com/billyjefersonofficial) on Instagram
-- skyfallbladez@gmail.com
+
+## Contact
+<a href="https://linkedin.com/in/billy-jeferson/">
+    <img align="left" alt="LinkedIn" title="LinkedIn" width="35px" src="https://img.icons8.com/fluency/144/000000/linkedin.png">
+</a>
+<a href="https://twitter.com/BillyJeferson5/">
+    <img align="left" alt="Twitter" title="Twitter" width="35px" src="https://img.icons8.com/fluency/144/000000/twitter.png">
+</a>
+<a href="https://instagram.com/billyjefersonofficial">
+    <img align="left" alt="Instagram" title="Instagram" width="35px" src="https://img.icons8.com/fluency/144/000000/instagram-new.png">
+</a>
+<a href="mailto:skyfallbladez@gmail.com">
+    <img align="left" alt="GMail" title="GMail" width="35px" src="https://img.icons8.com/fluency/144/000000/gmail-new.png">
+</a>
