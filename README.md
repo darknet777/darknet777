@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/darknet777?label=Follow&style=flat-square&color=4285f4&logo=Github)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://darknet777.github.io/)](https://darknet777.github.io/)
 
-I'm Billy, a <span id="years"></span> years old machine learning developer from Indonesia! I've enjoyed Python and make it the main language in creating a project.
+I'm Billy, a 23 years old machine learning developer from Indonesia! I've enjoyed Python and make it the main language in creating a project.
 
 <!--I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Machine Learning Beginner Developer.-->
 
@@ -76,20 +76,3 @@ I'm Billy, a <span id="years"></span> years old machine learning developer from 
 <a href="mailto:skyfallbladez@gmail.com">
     <img align="left" alt="GMail" title="GMail" width="35px" src="https://img.icons8.com/fluency/144/000000/gmail-new.png">
 </a>
-
-<script>
-    const dob = new Date("10/05/1998");
-    //calculate month difference from current date in time
-    const month_diff = Date.now() - dob.getTime();
-
-    //convert the calculated difference in date format
-    const age_dt = new Date(month_diff); 
-
-    //extract year from date    
-    const year = age_dt.getUTCFullYear();
-
-    //now calculate the age of the user
-    const age = Math.abs(year - 1970);
-
-    document.getElementById("years").innerHTML = age;
-</script>
