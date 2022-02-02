@@ -28,7 +28,7 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
     <img align="left" alt="Numpy" title="NumPy" width="35px" src="https://numpy.org/images/logo.svg">
 </a>
 <a href="https://www.djangoproject.com/">
-    <img align="left" alt="Django" title="Django" width="35px" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg">
+    <img align="left" alt="Django" title="Django" width="35px" src="https://img.icons8.com/material-outlined/144/ffffff/django.png">
 </a>
 <a href="https://aws.amazon.com/">
     <img align="left" alt="AWS" title="AWS (Amazon Web Services)" width="35px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png">
