@@ -13,8 +13,8 @@ I'm Billy, a 23 years old machine learning developer from Indonesia! I've enjoye
 <!--I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Machine Learning Beginner Developer.-->
 
 - 🔭 I’m currently working at <a href="https://linkedin.com/company/pt-matracom">MATRACOM</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about machine learning or Python
+- 🌱 I’m currently learning about Django framework
+- 💬 Feel free to ask me about Python programming
 - ⚡ Fun fact: Nothing
 
 ## Tech Stack
