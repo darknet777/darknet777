@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/darknet777?label=Follow&style=flat-square&color=4285f4&logo=Github)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://darknet777.github.io/)](https://darknet777.github.io/)
 
-I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoyed Python and make it the main language in creating a project.
+I'm Billy, a 23 years old machine learning developer from Indonesia! I've enjoyed Python and make it the main language in creating a project.
 
 <!--I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Machine Learning Beginner Developer.-->
 
@@ -25,7 +25,10 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
     <img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://img.icons8.com/color/144/000000/tensorflow.png">
 </a>
 <a href="https://numpy.org/">
-    <img align="left" alt="Numpy" title="NumPy" width="35px" src="https://numpy.org/images/logos/numpy.svg">
+    <img align="left" alt="Numpy" title="NumPy" width="35px" src="https://numpy.org/images/logo.svg">
+</a>
+<a href="https://www.djangoproject.com/">
+    <img align="left" alt="Django" title="Django" width="35px" src="https://img.icons8.com/material-outlined/144/ffffff/django.png">
 </a>
 <a href="https://aws.amazon.com/">
     <img align="left" alt="AWS" title="AWS (Amazon Web Services)" width="35px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png">
@@ -33,7 +36,7 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
 <br>
 <br>
 
-## Development Tools
+## DevTools
 <a href="#">
     <img align="left" alt="GNU/Linux" title="GNU/Linux" width="35px" src="https://img.icons8.com/color/144/000000/linux--v1.png">
 </a>
@@ -42,6 +45,9 @@ I'm Billy, a 22 years old machine learning developer from Indonesia! I've enjoye
 </a>
 <a href="https://www.sublimetext.com/">
     <img align="left" alt="Sublime Text" title="Sublime Text" width="35px" src="https://img.icons8.com/fluency/144/000000/sublime-text.png">
+</a>
+<a href="https://git-scm.com/">
+    <img align="left" alt="Git" title="Git" width="35px" src="https://img.icons8.com/color/144/000000/git.png">
 </a>
 <a href="#">
     <img align="left" alt="Shell" title="Shell" width="35px" src="https://img.icons8.com/color/144/000000/console.png">
