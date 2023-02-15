@@ -3,10 +3,9 @@
 -->
 
 # Wassup! 👋
-### ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=darknet777&color=55acb7&style=for-the-badge&logo=Github)
-[![Twitter Follow](https://img.shields.io/twitter/follow/darknet777?label=Follow&style=flat-square&color=4285f4&logo=Twitter)](https://twitter.com/intent/follow?screen_name=darknet777)
-![GitHub followers](https://img.shields.io/github/followers/darknet777?label=Follow&style=flat-square&color=4285f4&logo=Github)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://darknet777.github.io/)](https://darknet777.github.io/)
+![Twitter Follow](https://img.shields.io/twitter/follow/darknet777?label=Follow&logo=twitter&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/darknet777?label=Follow&logo=github&style=flat-square)
+![Website](https://img.shields.io/website?label=Website&logo=Google%20Chrome&logoColor=white&style=flat-square&url=https%3A%2F%2Fdarknet777.github.io)
 
 I'm a software engineer based in Manado, Indonesia! I've enjoyed Python and make it the main language in creating a project.
 
@@ -67,7 +66,7 @@ I'm a software engineer based in Manado, Indonesia! I've enjoyed Python and make
 <a href="https://linkedin.com/in/billy-jeferson/">
     <img align="left" alt="LinkedIn" title="LinkedIn" width="35px" src="https://img.icons8.com/fluency/144/000000/linkedin.png">
 </a>
-<a href="https://twitter.com/BillyJeferson5/">
+<a href="https://twitter.com/darknet777/">
     <img align="left" alt="Twitter" title="Twitter" width="35px" src="https://img.icons8.com/fluency/144/000000/twitter.png">
 </a>
 <a href="https://instagram.com/billyjefersonofficial">
